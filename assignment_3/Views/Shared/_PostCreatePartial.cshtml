@@ -1,0 +1,46 @@
+﻿@model Guestbook
+<div class="m-3">
+            <form method="post" class="form-horizontal">
+                <fieldset>
+
+                    <!-- Form Name -->
+                    <legend class="display-4">Post a message</legend>
+
+                    <!-- Text input -->
+                    <div class="form-group">
+                        <div class="m-3">
+                            <input asp-for="Post_Name" placeholder="Your name" id = "Post_Name" class="form-control">
+                            <span asp-validation-for="Post_Name" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Text input -->
+                    <div class="form-group">
+                        <div class="m-3">
+                            <input asp-for="Post_Title" placeholder="Post title" id = "Post_Title" class="form-control">
+                            <span asp-validation-for="Post_Title" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Password input -->
+                    <div class="form-group">
+                        <div class="m-3">
+                            <textarea asp-for="Post_Message" placeholder="Your post" id="Post_Message"class="form-control" style="height:200px "></textarea>
+                            <span asp-validation-for="Post_Message" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Button -->
+                    <div class="form-group">
+                        <div class="m-3">
+                            <button id="Submit" class="btn btn-primary">Button</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+            
+
+
+        </div>
+ 
+    

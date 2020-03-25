@@ -1,0 +1,15 @@
+@model PostViewModel
+@{
+    ViewBag.Title = "Blog Posts";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (Model.Posts != null)
+{
+    @foreach (var post in Model.Posts.OrderByDescending(c => c.Time))  
+    {
+        <a asp-action="Edit" asp-route-id="@post.PostId">Edit</a>
+        <partial name="_PostPartial" model="post"/>
+    }
+}

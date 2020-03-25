@@ -1,0 +1,21 @@
+﻿@model GuestbookViewModel
+
+
+
+    
+
+
+    <partial name="_PostCreatePartial" for="Guestbook"/>
+
+
+    @foreach (var p in Model.Guestbooks)
+    {
+
+
+        <partial name="_PostPartial" model="p"/>
+
+
+
+
+    }
+

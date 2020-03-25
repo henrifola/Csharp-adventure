@@ -1,0 +1,24 @@
+@model Post
+
+<div id="Nickname" class="Nickname">
+ @Model.Account.Nickname 
+</div>
+
+<div  id="Title" class="Title">
+  @Model.Title   
+</div>
+
+
+<div  id = "Summary" class="Summary">
+ @Model.Summary
+</div>
+
+
+<div  id = "Content" class="Content">
+ @Model.Content   
+</div>
+
+<div  id = "Time" class="Time">  
+@Model.Time.ToString("dd.MM.yyyy")
+
+</div>

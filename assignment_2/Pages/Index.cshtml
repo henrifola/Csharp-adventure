@@ -1,0 +1,44 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">    
+            <div class="calculator card">
+                <input id ='display' type="text" class="calculator-input" value="">
+                
+                <div class="calculator-keys">
+                    <button value="1" type="button" class="btn btn-light" id="one">1</button>
+                    <button value="2" type="button" class="btn btn-light" id="two">2</button>
+                    <button value="3" type="button" class="btn btn-light" id="three">3</button>
+                
+                    <button type="button" class="btn btn-light" value="4" id="four">4</button>
+                    <button type="button" class="btn btn-light" value="5" id="five">5</button>
+                    <button type="button" class="btn btn-light" value="6" id="six">6</button>
+                    
+                    <button type="button" class="btn btn-light" value="7" id="seven">7</button>
+                    <button type="button" class="btn btn-light" value="8" id="eight">8</button>
+                    <button type="button" class="btn btn-light" value="9" id="nine">9</button>
+                    
+                    <button type="button" class="decimal function btn btn-secondary" id="clear">Ce</button>
+                    <button type="button" class="btn btn-light" value="0" id="zero">0</button>
+                    <button type="button" class="all-clear function btn btn-danger btn-sm" id="reset">C</button>
+                
+                    <button type="button" class="equal-sign operator btn btn-light" id="equals">=</button>
+                    
+                    <button type="button" class="btn btn-primary" id='plus' value="+">+</button>
+                    <button type="button" class="btn btn-primary" id='minus' value="-">-</button>
+                    <button type="button" class="btn btn-primary" id='multiply' value ="*">*</button>
+                    <button type="button" class="btn btn-primary" id='divide' value="/" >/</button>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</div>

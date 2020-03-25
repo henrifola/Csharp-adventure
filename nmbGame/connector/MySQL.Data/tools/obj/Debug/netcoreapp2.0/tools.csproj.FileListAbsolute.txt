@@ -1,0 +1,7 @@
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/bin/Debug/netcoreapp2.0/tools.deps.json
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/bin/Debug/netcoreapp2.0/tools.dll
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/bin/Debug/netcoreapp2.0/tools.pdb
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/obj/Debug/netcoreapp2.0/tools.AssemblyInfoInputs.cache
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/obj/Debug/netcoreapp2.0/tools.AssemblyInfo.cs
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/obj/Debug/netcoreapp2.0/tools.dll
+/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tools/obj/Debug/netcoreapp2.0/tools.pdb

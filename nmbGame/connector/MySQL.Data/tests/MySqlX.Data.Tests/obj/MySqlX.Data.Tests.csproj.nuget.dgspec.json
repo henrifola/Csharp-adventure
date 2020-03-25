@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tests/MySqlX.Data.Tests/MySqlX.Data.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj": {
+      "version": "8.0.19",
+      "restore": {
+        "projectUniqueName": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj",
+        "projectName": "MySql.Data",
+        "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj",
+        "packagesPath": "/home/henriette/.nuget/packages/",
+        "outputPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/henriette/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452",
+          "net48",
+          "netstandard2.0",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          },
+          "net48": {
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.3.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2016.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "net48": {
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.3.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2016.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "BouncyCastle.NetCore": {
+              "target": "Package",
+              "version": "[1.8.3, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2016.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "dependencies": {
+            "BouncyCastle.NetCore": {
+              "target": "Package",
+              "version": "[1.8.3, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2016.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tests/MySqlX.Data.Tests/MySqlX.Data.Tests.csproj": {
+      "version": "8.0.19",
+      "restore": {
+        "projectUniqueName": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tests/MySqlX.Data.Tests/MySqlX.Data.Tests.csproj",
+        "projectName": "MySqlx.Data.Tests",
+        "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tests/MySqlX.Data.Tests/MySqlX.Data.Tests.csproj",
+        "packagesPath": "/home/henriette/.nuget/packages/",
+        "outputPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/tests/MySqlX.Data.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/henriette/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452",
+          "net48",
+          "netcoreapp2.2",
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj": {
+                "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj"
+              }
+            }
+          },
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj": {
+                "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj"
+              }
+            }
+          },
+          "net452": {
+            "projectReferences": {
+              "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj": {
+                "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj"
+              }
+            }
+          },
+          "net48": {
+            "projectReferences": {
+              "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj": {
+                "projectPath": "/home/henriette/studie/semester_4/Csharp-adventure/nmbGame/connector/MySQL.Data/src/MySql.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "net452": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        },
+        "net48": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+.calculator{
+    width: 400px;
+    height: 525px;
+    background-color: #9fcdff;
+    
+}
+.calculator-input{
+    height: 80px;
+    width: 100%;
+    background-color: #5a6268;
+    text-align: right;
+    font-size: 4rem;
+    color: white;
+}
+
+button {
+    height: 60px;
+    font-size: 2rem;
+}
+
+.equal-sign{
+    height: 98%;
+    grid-area: 1 / 4 / 5 / 5;
+}
+
+.calculator-keys{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+}

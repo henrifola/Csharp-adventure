@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="347e7688-936f-4db4-a693-05bec0e984db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/Pages/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/wwwroot/css/custom.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X6kzXd9vr3zEzx3JbSPLOcxP91" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment_2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.assignment_1">
+    <configuration name="assignment_1" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/assignment_1.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="assignment_1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment_1: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/assignment_1.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="347e7688-936f-4db4-a693-05bec0e984db" name="Default Changelist" comment="" />
+      <created>1580452849609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580452849609</updated>
+      <workItem from="1580452856701" duration="10456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1264" y="295" width="424" height="513" key="FileChooserDialogImpl" timestamp="1580463265646">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1264" y="295" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463265646" />
+    <state width="821" height="149" key="GridCell.Tab.0.bottom" timestamp="1580463394655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="821" height="149" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463394655" />
+    <state width="821" height="149" key="GridCell.Tab.0.center" timestamp="1580463394655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="821" height="149" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463394655" />
+    <state width="821" height="149" key="GridCell.Tab.0.left" timestamp="1580463394655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="821" height="149" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463394655" />
+    <state width="821" height="149" key="GridCell.Tab.0.right" timestamp="1580463394655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="821" height="149" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463394655" />
+    <state x="1081" y="287" width="800" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1580463125717">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1081" y="287" width="800" height="530" key="Rider.ProjectTemplateDialog.Size/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580463125717" />
+    <state x="876" y="187" key="SettingsEditor" timestamp="1580455128903">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="876" y="187" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580455128903" />
+    <state x="1051" y="198" width="670" height="676" key="search.everywhere.popup" timestamp="1580455901065">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1051" y="198" width="670" height="676" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580455901065" />
+  </component>
+</project>

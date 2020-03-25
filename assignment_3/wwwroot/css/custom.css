@@ -1,0 +1,70 @@
+﻿#header {
+    background-image: url("https://media-exp1.licdn.com/dms/image/C4E16AQFL7sX8VFuv4Q/profile-displaybackgroundimage-shrink_350_1400/0?e=1586390400&v=beta&t=SqcAxgtWlhIrNtxf_syr_1nyhXwc0AVAXmqlLn7UQFU");
+    height:150px;
+    max-width: 100%;
+    background-repeat: repeat;
+    background-position: 50% 50%;
+
+}
+
+/* cursor */
+
+{block:ifsmallcursor}
+body {
+    cursor:url(https://static.tumblr.com/dytmpsw/zv9q32ghv/tumblr_lqs4qduu8n1qfoi4t.png), progress!important;
+}
+
+a, a:hover {
+    cursor:url(https://static.tumblr.com/dytmpsw/6uiq32gi2/tumblr_inline_n0lc3j3jah1r1tugg.png), progress!important;
+}
+{/block:ifsmallcursor}
+
+.module{
+    cursor: url('https://static.tumblr.com/dytmpsw/zv9q32ghv/tumblr_lqs4qduu8n1qfoi4t.png'), auto;
+}
+
+::selection {
+    background: #ECCCEB; /* WebKit/Blink Browsers */
+}
+
+html {
+    background: url("https://pngimage.net/wp-content/uploads/2018/06/grid-png-tumblr-4.png") repeat;
+    height: 100%;
+    margin: auto;
+    width: 960px;
+    cursor: url('https://static.tumblr.com/dytmpsw/zv9q32ghv/tumblr_lqs4qduu8n1qfoi4t.png'), auto;
+    
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+/* Style the submit button */
+form.example button {
+    /*float: left;*/
+    width: 40px;
+    height: 45px;
+    padding: 5px;
+    background: #ef9a9a;
+    color: white;
+    font-size: 14px;
+    border-left: none; /* Prevent double borders */
+    cursor: url('https://static.tumblr.com/dytmpsw/zv9q32ghv/tumblr_lqs4qduu8n1qfoi4t.png'), auto;
+}
+form.example button:hover {
+    background: #ef9a9a;
+    cursor:url(https://static.tumblr.com/dytmpsw/6uiq32gi2/tumblr_inline_n0lc3j3jah1r1tugg.png), progress!important;
+}
+/* Clear floats */
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
